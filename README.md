@@ -37,7 +37,7 @@
 # Contact me 📧: 
   
 <p align="left">   
-<a href="https://www.linkedin.com/in/web-codegrammer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="[https://www.linkedin.com/in/ashwin-athappan](https://www.linkedin.com/in/ashwin-athappan-3758a2175/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/ashwin-athappan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="mailto:ashwinathappank@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/web-codegrammer/web-codegrammer/blob/master/svg/icons8-gmail.svg" width="38" height="36" /></a>
   </p>
