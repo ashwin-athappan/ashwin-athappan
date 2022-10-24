@@ -1,0 +1,23 @@
+{
+  "name": "ashwin-athappan",
+  "version": "1.0.0",
+  "description": "<h1 align=center><img src=\"https://slackmojis.com/emojis/5999-meow_party/download\" width=\"30\"/> Hi There <img src=\"https://slackmojis.com/emojis/5197-party_blob/download\" width=\"30\" /></h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwin-athappan/ashwin-athappan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwin-athappan/ashwin-athappan/issues"
+  },
+  "homepage": "https://github.com/ashwin-athappan/ashwin-athappan#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
