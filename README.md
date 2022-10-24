@@ -1,7 +1,7 @@
 <h1 align=center><img src="https://slackmojis.com/emojis/5999-meow_party/download" width="30"/> Hi There <img src="https://slackmojis.com/emojis/5197-party_blob/download" width="30" /></h1>
 
 <p>Welcome to my page!</p>
-<p>I'm Ashwin, a Fullstack developer from<span style="position: absolute;  margin: -3px 3px" ><img alt="" src="https://slackmojis.com/emojis/43065-india/download" width="30"/></span> ----- . Hope you like my profile.</p>
+<p>I'm Ashwin, a Fullstack developer from <img alt="" src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/>. Hope you like my profile.</p>
 
 <h3>Languages I know</h3>
 <p>
@@ -121,5 +121,5 @@
 
 ---
 
-<p align="center">This <i>README</i> was last refreshed on: Monday, 24 October at 4:40 pm IST
+<p align="center">This <i>README</i> was last refreshed on: Monday, 24 October at 5:20 pm IST
 <p align="center"> <img alt="Stars" src="https://img.shields.io/github/stars/ashwin-athappan/ashwin-athappan?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/ashwin-athappan/ashwin-athappan?style=flat-square&labelColor=343b41"/></p>
